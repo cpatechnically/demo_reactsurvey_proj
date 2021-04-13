@@ -7,9 +7,11 @@
 
 # testing
 /coverage
+_Pipfile
+_=2.8.0
 
 # production
-/build
+#/build
 
 # misc
 .DS_Store

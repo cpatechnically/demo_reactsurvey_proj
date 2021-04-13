@@ -1,0 +1,2 @@
+(this["webpackJsonpcfe-reactsurvey"]=this["webpackJsonpcfe-reactsurvey"]||[]).push([[5],{17:function(e){e.exports=JSON.parse('[{"page":1,"required":true,"name":"full_name","type":"text","placeholder":"You full name..."},{"page":1,"required":true,"name":"email","type":"email","placeholder":"hello@teamcfe.com"}]')}}]);
+//# sourceMappingURL=5.1c706a55.chunk.js.map
